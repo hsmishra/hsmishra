@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **satyam.hsmishra@gmail.com**
 
-- ⚡ Fun fact I'm a part time travel vlogger 😃  **https://www.instagram.com/travelingluts/**
+- ⚡ Fun fact I'm a part time travel vlogger 😃  **https://www.youtube.com/channel/UCsoYoQUQt2UxjQY447ztThw**
 
 <h3 align="left">Connect with me:</h3>
 
