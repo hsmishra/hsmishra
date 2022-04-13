@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Satyam Mishra</h1>
 <h3 align="center">I'm a Software Engineer at Incedo Inc </h3>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=styam)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hsmishra)  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=styam&label=Profile%20views&color=0e75b6&style=flat" alt="styam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hsmishra&label=Profile%20views&color=0e75b6&style=flat" alt="hsmishra" /> </p>
 
 
 - 📝 I regularly write articles on [https://satyam-hsmishra.medium.com/](https://satyam-hsmishra.medium.com/)
