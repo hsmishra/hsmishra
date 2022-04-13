@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Satyam Mishra</h1>
 <h3 align="center">I'm a Software Engineer at Incedo Inc </h3>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=styam) 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=styam&label=Profile%20views&color=0e75b6&style=flat" alt="styam" /> </p>
 
 
@@ -10,7 +13,7 @@
 
 - 📫 How to reach me **satyam.hsmishra@gmail.com**
 
-- ⚡ Fun fact **https://www.instagram.com/travelingluts/**
+- ⚡ Fun fact I'm a part time travel vlogger 😃  **https://www.instagram.com/travelingluts/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
